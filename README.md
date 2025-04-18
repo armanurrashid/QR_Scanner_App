@@ -17,9 +17,8 @@ A simple Flutter application that allows users to **scan** QR codes and **genera
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/your-username/qr_scanner.git
-cd qr_scanner```
+cd qr_scanner
 
 
 ### 2. Install Dependencies
