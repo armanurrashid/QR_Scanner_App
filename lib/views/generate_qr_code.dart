@@ -58,8 +58,9 @@ class _Generate_QR_CodeState extends State<Generate_QR_Code> {
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.blue,
                     foregroundColor: Colors.white,
+                    minimumSize: Size(200, 50)
                   ),
-                  child: Text('Generate QR Code'),
+                  child: Text('Generate QR Code',style: TextStyle(fontSize: 18),),
                 ),
               )
 
