@@ -23,10 +23,8 @@ cd qr_scanner
 
 
 ### 2. Install Dependencies
-```bash
 flutter pub get
 
 
-### 2. Run the App
-```bash
+### 3. Run the App
 flutter run
